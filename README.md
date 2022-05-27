@@ -1,2 +1,2 @@
-# danielcyc.github.io
+# danielcyc
 test
